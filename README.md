@@ -1,5 +1,6 @@
 # Two-Node-Embedded-CAN-Bus-Flight-Control-System-Personal-Project
 Designed and built a dual-microcontroller embedded system using ESP32-S3, communicating over CAN bus, simulating a cockpit-to-actuator architecture found in aerospace avionics
+### demo link :https://drive.google.com/file/d/1fbRuJPpmTPmafaozXDlOXokRq5c_qzjd/view?usp=sharing
 # CAN Bus Flight Control System (PFD + EICAS Simulation)
 
 A two-node embedded system built on ESP32-S3, simulating the cockpit/actuator split architecture used in real aircraft avionics. Two microcontrollers communicate over CAN bus: one handles pilot inputs, the other handles sensing and actuation. A custom web dashboard renders a live Primary Flight Display (PFD) and ECAM-style engine/systems display.
